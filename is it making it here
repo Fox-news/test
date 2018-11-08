@@ -1,8 +1,6 @@
-okay
-test
-asdflkjbhasdfj
-iiu
+This is code
 
-ebhfsdf
-sdfgjlhgbfdsg
-dfsgfdsg
+public static void main(String[] args0){
+system.out.println("running system");
+
+}
