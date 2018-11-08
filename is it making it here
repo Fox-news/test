@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 okay
+=======
+This is code
+
+public static void main(String[] args0){
+system.out.println("running system");
+
+}
+>>>>>>> branch 'master' of https://github.com/Fox-news/test.git
